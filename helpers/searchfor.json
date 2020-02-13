@@ -1,0 +1,25 @@
+{
+    "designers": [
+        "1017 ALYX 9SM",
+        "424",
+        "Acne Studios",
+        "Balenciaga",
+        "Fear of God",
+        "Raf Simons"
+
+    ],
+    "stores": [
+        {
+            "name": "mrporter",
+            "url": "https://www.mrporter.com/en-ru/mens/azdesigners",
+            "currency": "EUR",
+            "shipping": "unknown"
+        },
+        {
+            "name": "gucci",
+            "url": "https://www.gucci.com",
+            "currency": "EUR",
+            "shipping": "unknown"
+        }
+    ]
+}
